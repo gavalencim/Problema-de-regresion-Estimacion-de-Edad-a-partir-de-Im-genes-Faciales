@@ -1,5 +1,7 @@
 # Problema de regresión: Estimación de Edad a partir de Imágenes Faciales
 
+---
+
 ## 1. Análisis preliminar
 
 ### Por qué es un problema de regresión? 
@@ -36,3 +38,6 @@ Además, las imágenes contienen información visual relevante como:
 
 Estas características son utilizadas por modelos CNN para aprender patrones asociados con la edad.
 
+---
+
+## 2. Análisis Exploratorio de Datos (EDA)
